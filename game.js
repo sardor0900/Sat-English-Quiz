@@ -83,7 +83,6 @@ let questions = [
         choice4: 'Force',
         answer: 1,
     },
-  
 ]
 
 const SCORE_POINTS = 100
